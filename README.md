@@ -1,6 +1,6 @@
- Hi there 👋
-Passionate software developer with expertise in Python, JavaScript. Experienced in building scalable web applications and microservices. Adept at problem-solving and committed to continuous learning. Enthusiastic about collaborating on innovative projects to deliver high-quality software solutions. Let's connect and create something amazing together!
+## Hi there 👋
 
+I am a passionate frontend developer with hands-on experience in HTML, CSS, Bootstrap, JavaScript, and React through various projects and  My greatest achievement is developing a dynamic website like Flipkart clone, Resume Builder, Emi Calculator, Calculator, Weather App etc that showcases my coding skills and received positive feedback from industry professionals. Known for my quick learning ability and attention to detail, I am eager to bring fresh ideas and innovative solutions to your team. My collaborative mindset and dedication to continuous improvement make me a strong candidate for your frontend development role.
 <!--
 **codingwithmuzim/codingwithmuzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
