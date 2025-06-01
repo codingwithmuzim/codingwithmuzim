@@ -1,71 +1,110 @@
 <img align="center" width="100%" height="300px" alt="coder_img" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
-<h1 align="center">Hi 👋, I'm Muzim</h1>
-
-<h3 align="center">🚀 A Passionate Python Full Stack Developer from India</h3>
-
-- 🔭 I’m currently working on **various web applications and full-stack projects**
-
-- 🌱 I’m expanding my skills in **REST APIs, DevOps basics, and advanced Django**
-
-- 👯 I’m looking to collaborate on **impactful, real-world web development projects**
-
-- 💬 Ask me about **JavaScript, Django, React, or Database Design**
-
-- 📫 Reach me at: **muzim0999@gmail.com**
-
-- ⚡ Fun fact: **I love turning complex problems into elegant code solutions!**
+<h1 align="center">Hi there 👋, I'm Muzim</h1>
+<h3 align="center">🌍 Full Stack Python Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
 ---
 
-<h2 align="left">💻 Languages and Tools:</h2>
-<p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+### 🚀 About Me
+
+- 🔭 Currently building **full-stack web applications using Django & React**
+- 🌱 Learning advanced **API integration, Cloud deployment**
+- 👨‍💻 Passionate about writing **clean, scalable, and testable code**
+- 👯 I love collaborating on **open-source and startup projects**
+- 📧 Reach out to me at: **muzim0999@gmail.com**
+- 🧠 Fun fact: **Debugging is my cardio!**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🧩 Languages & Frameworks:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+#### 🗃️ Database & Tools:
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-<h2 align="left">🌐 Frontend Stack:</h2>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+### 🌐 Frontend Skills
+
+- HTML5, CSS3, Bootstrap
+- JavaScript (ES6+), React.js
+- Responsive UI/UX design using Flexbox, Grid, and media queries
+
+### 🔧 Backend Expertise
+
+- Python with Django (MVT Architecture)
+- REST APIs, Authentication (JWT, Session)
+- Form handling, validation, and admin customization
+
+### 🗄️ Database Proficiency
+
+- MySQL
+- ORM Queries using Django
+- Database schema design & optimization
+
+---
+
+### 📌 Featured Projects
+
+- **WeatherNow** – Real-time weather app using OpenWeatherMap API  
+- **Ask & Solve** – Q&A platform where users ask and solve coding problems  
+
+> Want a demo link or repo? Just ask!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzim0999&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzim0999&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-<h2 align="left">🔧 Backend Stack:</h2>
-<p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muzim0999&theme=gruvbox&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-<h2 align="left">🗄️ Database:</h2>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muzim0999&theme=github-compact&area=true" />
 </p>
 
 ---
 
-<h2 align="left">✨ Highlights:</h2>
+### 📫 Connect with Me
 
-- ✅ Strong foundation in MVC frameworks like Django  
-- ✅ Comfortable building scalable REST APIs  
-- ✅ Experience with frontend frameworks like React and Bootstrap  
-- ✅ Efficient in managing databases with MySQL  
-- ✅ Familiar with Git & GitHub version control workflows  
+<p align="left">
+  <a href="mailto:muzim0999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/muzim0999"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-<p align="center"><b>Let's build something amazing together!</b></p>
+<p align="center">
+  🚀 <strong>“Code is like humor. When you have to explain it, it’s bad.”</strong> – Cory House  
+</p>
